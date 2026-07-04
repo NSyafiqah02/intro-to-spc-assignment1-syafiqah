@@ -206,5 +206,21 @@ LSL=45, USL=55
 ::::
 
 ---
+
+## PartLength Comparison: Machine 1 vs. Machine 2
+
+:::: {.columns}
+::: {.column width="50%"}
+### T-Test Results and Boxplot
+Here's a comparison of 'PartLength' between Machine 1 and Machine 2, visualized with a boxplot, alongside the results of an independent samples t-test to assess for a statistically significant difference.
+
+For full R code and t-test output, refer to `media/plots/machine_1_2_partlength_boxplot.md`
+:::
+::: {.column width="50%"}
+<iframe data-src='media/plots/machine_1_2_partlength_boxplot.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
 # Bibliography
 <div id="refs"></div>
